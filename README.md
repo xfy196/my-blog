@@ -57,6 +57,3 @@ fork from [My Blog](https://github.com/xfy196/my-blog) , 该作者是在 [Tale](
  系统设置：
  ![](img/admin-setting.png)
  
-## 开源协议
-
-[MIT](./LICENSE)
